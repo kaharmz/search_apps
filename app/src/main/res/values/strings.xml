@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Github user</string>
+    <string name="todo">TODO</string>
+    <string name="search">Search</string>
+    <string name="search_event_text">Search User</string>
+</resources>
